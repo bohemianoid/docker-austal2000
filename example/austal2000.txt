@@ -1,0 +1,4 @@
+z0   0.5 ' m
+nox 1.00 ' g/s
+hq    10 ' m
+az "example.akterm"

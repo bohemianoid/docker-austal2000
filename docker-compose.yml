@@ -1,0 +1,8 @@
+version: "3"
+services:
+  austal2000:
+    build: .
+    image: austal2000
+    volumes:
+      - ./example:/example
+    command: -D /example
